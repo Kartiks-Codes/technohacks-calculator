@@ -1,1 +1,1 @@
-# technohacks-calculator
+# TechnoHacks Internship Project
